@@ -1,4 +1,5 @@
 # code-everyday
+
 Daily coding streak
 
 🗓️ Started: June 2026
@@ -8,6 +9,7 @@ Daily coding streak
 
 ## 📊 Progress Tracker
 
-| Day | Problem | Difficulty | Topic |
-|-----|---------|------------|-------|
-| 001 | Reverse the Array | Easy | Array |
+| Day | Problem           | Difficulty | Topic | Approach    |
+| --- | ----------------- | ---------- | ----- | ----------- |
+| 001 | Reverse the Array | Easy       | Array | Two Pointer |
+| 002 | Two Sum           | Easy       | Array | HashMap     |
