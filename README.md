@@ -18,3 +18,4 @@ Daily coding streak
 | 005 | Check if Array is Sorted    | Easy       | Array | Linear Search |
 | 006 | Find Second Largest Element | Easy       | Array | Linear Search |
 | 007 | Count Even and Odd Numbers  | Easy       | Array | Linear Search |
+| 008 | Find Sum of Array Elements  | Easy       | Array | Linear Search |
