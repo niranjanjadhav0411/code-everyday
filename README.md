@@ -19,3 +19,4 @@ Daily coding streak
 | 006 | Find Second Largest Element | Easy       | Array | Linear Search |
 | 007 | Count Even and Odd Numbers  | Easy       | Array | Linear Search |
 | 008 | Find Sum of Array Elements  | Easy       | Array | Linear Search |
+| 009 | Move Zeros to End           | Easy       | Array | Two Pointer   |
