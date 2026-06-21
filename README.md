@@ -20,3 +20,4 @@ Daily coding streak
 | 007 | Count Even and Odd Numbers  | Easy       | Array | Linear Search |
 | 008 | Find Sum of Array Elements  | Easy       | Array | Linear Search |
 | 009 | Move Zeros to End           | Easy       | Array | Two Pointer   |
+| 010 | Find Missing Number         | Easy       | Array | Math Formula  |
