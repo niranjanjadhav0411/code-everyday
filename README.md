@@ -9,6 +9,8 @@ Daily coding streak
 
 ## 📊 Progress Tracker
 
+## 📊 Arrays
+
 | Day | Problem                     | Difficulty | Topic | Approach      |
 | --- | --------------------------- | ---------- | ----- | ------------- |
 | 001 | Reverse the Array           | Easy       | Array | Two Pointer   |
@@ -21,3 +23,11 @@ Daily coding streak
 | 008 | Find Sum of Array Elements  | Easy       | Array | Linear Search |
 | 009 | Move Zeros to End           | Easy       | Array | Two Pointer   |
 | 010 | Find Missing Number         | Easy       | Array | Math Formula  |
+
+---
+
+## 📊 Strings
+
+| Day | Problem          | Difficulty | Topic  | Approach    |
+| --- | ---------------- | ---------- | ------ | ----------- |
+| 011 | Reverse a String | Easy       | String | Two Pointer |
