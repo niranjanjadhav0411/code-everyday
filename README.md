@@ -28,7 +28,8 @@ Daily coding streak
 
 ## 📊 Strings
 
-| Day | Problem                 | Difficulty | Topic  | Approach    | TC   | SC   |
-| --- | ----------------------- | ---------- | ------ | ----------- | ---- | ---- |
-| 011 | Reverse a String        | Easy       | String | Two Pointer | O(n) | O(n) |
-| 012 | Check Palindrome String | Easy       | String | Two Pointer | O(n) | O(1) |
+| Day | Problem                     | Difficulty | Topic  | Approach      | TC   | SC   |
+| --- | --------------------------- | ---------- | ------ | ------------- | ---- | ---- |
+| 011 | Reverse a String            | Easy       | String | Two Pointer   | O(n) | O(n) |
+| 012 | Check Palindrome String     | Easy       | String | Two Pointer   | O(n) | O(1) |
+| 013 | Count Vowels and Consonants | Easy       | String | Linear Search | O(n) | O(1) |
