@@ -34,3 +34,4 @@ Daily coding streak
 | 012 | Check Palindrome String     | Easy       | String | Two Pointer           | O(n) | O(1) |
 | 013 | Count Vowels and Consonants | Easy       | String | Linear Search         | O(n) | O(1) |
 | 014 | Check Anagram               | Easy       | String | Character Count Array | O(n) | O(1) |
+| 015 | Find Duplicate Characters   | Easy       | String | Character Count Array | O(n) | O(1) |
