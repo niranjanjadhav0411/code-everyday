@@ -35,3 +35,4 @@ Daily coding streak
 | 013 | Count Vowels and Consonants | Easy       | String | Linear Search         | O(n) | O(1) |
 | 014 | Check Anagram               | Easy       | String | Character Count Array | O(n) | O(1) |
 | 015 | Find Duplicate Characters   | Easy       | String | Character Count Array | O(n) | O(1) |
+| 016 | Count Words in a String     | Easy       | String | Count Spaces          | O(n) | O(1) |
