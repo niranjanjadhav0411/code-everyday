@@ -28,12 +28,13 @@ Daily coding streak
 
 ## 📊 Strings
 
-| Day | Problem                     | Difficulty | Topic  | Approach              | TC   | SC   |
-| --- | --------------------------- | ---------- | ------ | --------------------- | ---- | ---- |
-| 011 | Reverse a String            | Easy       | String | Two Pointer           | O(n) | O(n) |
-| 012 | Check Palindrome String     | Easy       | String | Two Pointer           | O(n) | O(1) |
-| 013 | Count Vowels and Consonants | Easy       | String | Linear Search         | O(n) | O(1) |
-| 014 | Check Anagram               | Easy       | String | Character Count Array | O(n) | O(1) |
-| 015 | Find Duplicate Characters   | Easy       | String | Character Count Array | O(n) | O(1) |
-| 016 | Count Words in a String     | Easy       | String | Count Spaces          | O(n) | O(1) |
-| 017 | Reverse Words in a String   | Easy       | String | Two Pointer           | O(n) | O(n) |
+| Day | Problem                        | Difficulty | Topic  | Approach              | TC   | SC   |
+| --- | ------------------------------ | ---------- | ------ | --------------------- | ---- | ---- |
+| 011 | Reverse a String               | Easy       | String | Two Pointer           | O(n) | O(n) |
+| 012 | Check Palindrome String        | Easy       | String | Two Pointer           | O(n) | O(1) |
+| 013 | Count Vowels and Consonants    | Easy       | String | Linear Search         | O(n) | O(1) |
+| 014 | Check Anagram                  | Easy       | String | Character Count Array | O(n) | O(1) |
+| 015 | Find Duplicate Characters      | Easy       | String | Character Count Array | O(n) | O(1) |
+| 016 | Count Words in a String        | Easy       | String | Count Spaces          | O(n) | O(1) |
+| 017 | Reverse Words in a String      | Easy       | String | Two Pointer           | O(n) | O(n) |
+| 018 | Check if Two Strings are Equal | Easy       | String | Char Comparison       | O(n) | O(1) |
