@@ -39,3 +39,4 @@ Daily coding streak
 | 017 | Reverse Words in a String          | Easy       | String | Two Pointer           | O(n) | O(n) |
 | 018 | Check if Two Strings are Equal     | Easy       | String | Char Comparison       | O(n) | O(1) |
 | 019 | Find First Non-Repeating Character | Easy       | String | Character Count Array | O(n) | O(1) |
+| 020 | Convert String to Upper and Lower  | Easy       | String | ASCII Manipulation    | O(n) | O(n) |
