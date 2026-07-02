@@ -40,3 +40,11 @@ Daily coding streak
 | 018 | Check if Two Strings are Equal     | Easy       | String | Char Comparison       | O(n) | O(1) |
 | 019 | Find First Non-Repeating Character | Easy       | String | Character Count Array | O(n) | O(1) |
 | 020 | Convert String to Upper and Lower  | Easy       | String | ASCII Manipulation    | O(n) | O(n) |
+
+---
+
+## 📊 HashMap
+
+| Day | Problem                         | Difficulty | Topic   | Approach | TC   | SC   |
+| --- | ------------------------------- | ---------- | ------- | -------- | ---- | ---- |
+| 021 | Count Frequency of Each Element | Easy       | HashMap | HashMap  | O(n) | O(n) |
