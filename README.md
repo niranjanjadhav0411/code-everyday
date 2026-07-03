@@ -48,3 +48,4 @@ Daily coding streak
 | Day | Problem                         | Difficulty | Topic   | Approach | TC   | SC   |
 | --- | ------------------------------- | ---------- | ------- | -------- | ---- | ---- |
 | 021 | Count Frequency of Each Element | Easy       | HashMap | HashMap  | O(n) | O(n) |
+| 022 | Find Most Frequent Element      | Easy       | HashMap | HashMap  | O(n) | O(n) |
