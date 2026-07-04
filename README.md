@@ -49,3 +49,4 @@ Daily coding streak
 | --- | ------------------------------- | ---------- | ------- | -------- | ---- | ---- |
 | 021 | Count Frequency of Each Element | Easy       | HashMap | HashMap  | O(n) | O(n) |
 | 022 | Find Most Frequent Element      | Easy       | HashMap | HashMap  | O(n) | O(n) |
+| 023 | Check if Two Arrays are Equal   | Easy       | HashMap | HashMap  | O(n) | O(n) |
