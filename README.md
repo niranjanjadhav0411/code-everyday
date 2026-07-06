@@ -45,9 +45,10 @@ Daily coding streak
 
 ## 📊 HashMap
 
-| Day | Problem                         | Difficulty | Topic   | Approach | TC   | SC   |
-| --- | ------------------------------- | ---------- | ------- | -------- | ---- | ---- |
-| 021 | Count Frequency of Each Element | Easy       | HashMap | HashMap  | O(n) | O(n) |
-| 022 | Find Most Frequent Element      | Easy       | HashMap | HashMap  | O(n) | O(n) |
-| 023 | Check if Two Arrays are Equal   | Easy       | HashMap | HashMap  | O(n) | O(n) |
-| 024 | Find All Pairs with Given Sum   | Easy       | HashMap | HashSet  | O(n) | O(n) |
+| Day | Problem                         | Difficulty | Topic   | Approach | TC     | SC     |
+| --- | ------------------------------- | ---------- | ------- | -------- | ------ | ------ |
+| 021 | Count Frequency of Each Element | Easy       | HashMap | HashMap  | O(n)   | O(n)   |
+| 022 | Find Most Frequent Element      | Easy       | HashMap | HashMap  | O(n)   | O(n)   |
+| 023 | Check if Two Arrays are Equal   | Easy       | HashMap | HashMap  | O(n)   | O(n)   |
+| 024 | Find All Pairs with Given Sum   | Easy       | HashMap | HashSet  | O(n)   | O(n)   |
+| 025 | Find Union and Intersection     | Easy       | HashMap | HashSet  | O(n+m) | O(n+m) |
