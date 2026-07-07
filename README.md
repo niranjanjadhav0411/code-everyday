@@ -52,3 +52,4 @@ Daily coding streak
 | 023 | Check if Two Arrays are Equal   | Easy       | HashMap | HashMap  | O(n)   | O(n)   |
 | 024 | Find All Pairs with Given Sum   | Easy       | HashMap | HashSet  | O(n)   | O(n)   |
 | 025 | Find Union and Intersection     | Easy       | HashMap | HashSet  | O(n+m) | O(n+m) |
+| 026 | Implement Stack Using Array     | Easy       | Stack   | Array    | O(1)   | O(n)   |
