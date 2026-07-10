@@ -57,8 +57,9 @@ Daily coding streak
 
 ## 📊 Stack & Queue
 
-| Day | Problem                     | Difficulty | Topic | Approach | TC   | SC   |
-| --- | --------------------------- | ---------- | ----- | -------- | ---- | ---- |
-| 026 | Implement Stack Using Array | Easy       | Stack | Array    | O(1) | O(n) |
-| 027 | Implement Queue Using Array | Easy       | Queue | Array    | O(1) | O(n) |
-| 028 | Valid Parentheses           | Easy       | Stack | Stack    | O(n) | O(n) |
+| Day | Problem                      | Difficulty | Topic | Approach | TC   | SC   |
+| --- | ---------------------------- | ---------- | ----- | -------- | ---- | ---- |
+| 026 | Implement Stack Using Array  | Easy       | Stack | Array    | O(1) | O(n) |
+| 027 | Implement Queue Using Array  | Easy       | Queue | Array    | O(1) | O(n) |
+| 028 | Valid Parentheses            | Easy       | Stack | Stack    | O(n) | O(n) |
+| 029 | Reverse a String Using Stack | Easy       | Stack | Stack    | O(n) | O(n) |
