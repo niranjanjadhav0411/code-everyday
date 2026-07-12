@@ -64,3 +64,11 @@ Daily coding streak
 | 028 | Valid Parentheses            | Easy       | Stack | Stack          | O(n) | O(n) |
 | 029 | Reverse a String Using Stack | Easy       | Stack | Stack          | O(n) | O(n) |
 | 030 | Find Middle Element of Stack | Easy       | Stack | Stack to Array | O(n) | O(n) |
+
+---
+
+## 📊 Linked List
+
+| Day | Problem                      | Difficulty | Topic       | Approach      | TC   | SC   |
+| --- | ---------------------------- | ---------- | ----------- | ------------- | ---- | ---- |
+| 031 | Create and Print Linked List | Easy       | Linked List | Node Creation | O(n) | O(n) |
