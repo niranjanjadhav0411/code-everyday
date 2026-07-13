@@ -69,6 +69,7 @@ Daily coding streak
 
 ## 📊 Linked List
 
-| Day | Problem                      | Difficulty | Topic       | Approach      | TC   | SC   |
-| --- | ---------------------------- | ---------- | ----------- | ------------- | ---- | ---- |
-| 031 | Create and Print Linked List | Easy       | Linked List | Node Creation | O(n) | O(n) |
+| Day | Problem                      | Difficulty | Topic       | Approach         | TC   | SC   |
+| --- | ---------------------------- | ---------- | ----------- | ---------------- | ---- | ---- |
+| 031 | Create and Print Linked List | Easy       | Linked List | Node Creation    | O(n) | O(n) |
+| 032 | Find Length of Linked List   | Easy       | Linked List | Linear Traversal | O(n) | O(1) |
