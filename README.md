@@ -73,3 +73,4 @@ Daily coding streak
 | --- | ---------------------------- | ---------- | ----------- | ---------------- | ---- | ---- |
 | 031 | Create and Print Linked List | Easy       | Linked List | Node Creation    | O(n) | O(n) |
 | 032 | Find Length of Linked List   | Easy       | Linked List | Linear Traversal | O(n) | O(1) |
+| 033 | Reverse a Linked List        | Easy       | Linked List | Three Pointer    | O(n) | O(1) |
