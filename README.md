@@ -69,8 +69,9 @@ Daily coding streak
 
 ## 📊 Linked List
 
-| Day | Problem                      | Difficulty | Topic       | Approach         | TC   | SC   |
-| --- | ---------------------------- | ---------- | ----------- | ---------------- | ---- | ---- |
-| 031 | Create and Print Linked List | Easy       | Linked List | Node Creation    | O(n) | O(n) |
-| 032 | Find Length of Linked List   | Easy       | Linked List | Linear Traversal | O(n) | O(1) |
-| 033 | Reverse a Linked List        | Easy       | Linked List | Three Pointer    | O(n) | O(1) |
+| Day | Problem                         | Difficulty | Topic       | Approach          | TC   | SC   |
+| --- | ------------------------------- | ---------- | ----------- | ----------------- | ---- | ---- |
+| 031 | Create and Print Linked List    | Easy       | Linked List | Node Creation     | O(n) | O(n) |
+| 032 | Find Length of Linked List      | Easy       | Linked List | Linear Traversal  | O(n) | O(1) |
+| 033 | Reverse a Linked List           | Easy       | Linked List | Three Pointer     | O(n) | O(1) |
+| 034 | Find Middle Node of Linked List | Easy       | Linked List | Slow Fast Pointer | O(n) | O(1) |
