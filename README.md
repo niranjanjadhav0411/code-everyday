@@ -76,3 +76,11 @@ Daily coding streak
 | 033 | Reverse a Linked List           | Easy       | Linked List | Three Pointer     | O(n) | O(1) |
 | 034 | Find Middle Node of Linked List | Easy       | Linked List | Slow Fast Pointer | O(n) | O(1) |
 | 035 | Detect Loop in Linked List      | Easy       | Linked List | Floyd's Algorithm | O(n) | O(1) |
+
+---
+
+## 📊 Trees
+
+| Day | Problem                      | Difficulty | Topic | Approach  | TC   | SC   |
+| --- | ---------------------------- | ---------- | ----- | --------- | ---- | ---- |
+| 036 | Create and Print Binary Tree | Easy       | Trees | Recursion | O(n) | O(h) |
