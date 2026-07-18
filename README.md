@@ -84,3 +84,4 @@ Daily coding streak
 | Day | Problem                      | Difficulty | Topic | Approach  | TC   | SC   |
 | --- | ---------------------------- | ---------- | ----- | --------- | ---- | ---- |
 | 036 | Create and Print Binary Tree | Easy       | Trees | Recursion | O(n) | O(h) |
+| 037 | Find Height of Binary Tree   | Easy       | Trees | Recursion | O(n) | O(h) |
