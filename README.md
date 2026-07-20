@@ -86,3 +86,4 @@ Daily coding streak
 | 036 | Create and Print Binary Tree     | Easy       | Trees | Recursion | O(n) | O(h) |
 | 037 | Find Height of Binary Tree       | Easy       | Trees | Recursion | O(n) | O(h) |
 | 038 | Count Total Nodes in Binary Tree | Easy       | Trees | Recursion | O(n) | O(h) |
+| 039 | Find Maximum Node in Binary Tree | Easy       | Trees | Recursion | O(n) | O(h) |
