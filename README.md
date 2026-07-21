@@ -87,3 +87,4 @@ Daily coding streak
 | 037 | Find Height of Binary Tree       | Easy       | Trees | Recursion | O(n) | O(h) |
 | 038 | Count Total Nodes in Binary Tree | Easy       | Trees | Recursion | O(n) | O(h) |
 | 039 | Find Maximum Node in Binary Tree | Easy       | Trees | Recursion | O(n) | O(h) |
+| 040 | Level Order Traversal            | Easy       | Trees | Queue BFS | O(n) | O(n) |
