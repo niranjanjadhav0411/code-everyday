@@ -88,3 +88,11 @@ Daily coding streak
 | 038 | Count Total Nodes in Binary Tree | Easy       | Trees | Recursion | O(n) | O(h) |
 | 039 | Find Maximum Node in Binary Tree | Easy       | Trees | Recursion | O(n) | O(h) |
 | 040 | Level Order Traversal            | Easy       | Trees | Queue BFS | O(n) | O(n) |
+
+---
+
+## 📊 Dynamic Programming
+
+| Day | Problem          | Difficulty | Topic | Approach     | TC   | SC   |
+| --- | ---------------- | ---------- | ----- | ------------ | ---- | ---- |
+| 041 | Fibonacci Number | Easy       | DP    | DP Bottom Up | O(n) | O(1) |
