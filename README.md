@@ -96,3 +96,4 @@ Daily coding streak
 | Day | Problem          | Difficulty | Topic | Approach     | TC   | SC   |
 | --- | ---------------- | ---------- | ----- | ------------ | ---- | ---- |
 | 041 | Fibonacci Number | Easy       | DP    | DP Bottom Up | O(n) | O(1) |
+| 042 | Climbing Stairs  | Easy       | DP    | DP Bottom Up | O(n) | O(1) |
